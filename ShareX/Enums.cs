@@ -78,7 +78,9 @@ namespace ShareX
         [Description("Українська (Ukrainian)")]
         Ukrainian,
         [Description("Tiếng Việt (Vietnamese)")]
-        Vietnamese
+        Vietnamese,
+        [Description("Hrvatski (Croatian)")]
+        Croatian
     }
 
     public enum TaskJob

@@ -128,6 +128,9 @@ namespace ShareX
                 case SupportedLanguage.Vietnamese:
                     icon = Resources.vn;
                     break;
+                case SupportedLanguage.Croatian:
+                    icon = Resources.vn;
+                    break;
             }
 
             return icon;
@@ -190,6 +193,9 @@ namespace ShareX
                     break;
                 case SupportedLanguage.Vietnamese:
                     cultureName = "vi-VN";
+                    break;
+                case SupportedLanguage.Croatian:
+                    cultureName = "hr-HR";
                     break;
             }
 
