@@ -136,7 +136,6 @@ namespace ShareX
             // Integration
 #if WindowsStore
             cbShellContextMenu.Visible = false;
-            cbEditWithShareX.Visible = false;
             cbSendToMenu.Visible = false;
             gbChrome.Visible = false;
             gbFirefox.Visible = false;
