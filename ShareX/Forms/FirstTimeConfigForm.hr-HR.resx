@@ -133,7 +133,7 @@
     <value>OK</value>
   </data>
   <data name="lblNote.Text" xml:space="preserve">
-    <value>Ove postavke se nalaze u "Postavke aplikacije -&gt; Integracije".</value>
+    <value>Ove postavke se nalaze u "Aplikacijske postavke -&gt; Integracije".</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
     <value>ShareX prvobitna konfiguracija</value>

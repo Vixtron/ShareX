@@ -130,7 +130,7 @@
     <value>OK</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
-    <value>Prekini</value>
+    <value>Odustani</value>
   </data>
   <data name="lblExtensions.Text" xml:space="preserve">
     <value>Nastavak za filtriranje: (Primjer: jpg png mp4)</value>

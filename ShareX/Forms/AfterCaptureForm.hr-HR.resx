@@ -121,16 +121,16 @@
     <value>Nastavi</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
-    <value>Prekini</value>
+    <value>Odustani</value>
   </data>
   <data name="btnCopy.Text" xml:space="preserve">
     <value>Kopiraj</value>
   </data>
   <data name="tpAfterCapture.Text" xml:space="preserve">
-    <value>Poslije izrezivanja</value>
+    <value>Nakon izrezivanja</value>
   </data>
   <data name="tpBeforeUpload.Text" xml:space="preserve">
-    <value>Destinacije</value>
+    <value>Odredišta</value>
   </data>
   <data name="tpAfterUpload.Text" xml:space="preserve">
     <value>Nakon prijenosa</value>

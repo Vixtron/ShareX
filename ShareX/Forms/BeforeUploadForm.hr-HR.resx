@@ -121,7 +121,7 @@
     <value>OK</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
-    <value>Prekini</value>
+    <value>Odustani</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Prije prijenosa</value>

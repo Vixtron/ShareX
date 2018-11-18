@@ -121,12 +121,15 @@
     <value>Zatvori</value>
   </data>
   <data name="btnShareXLicense.Text" xml:space="preserve">
-    <value>ShareX licenca</value>
+    <value>ShareX licenca...</value>
   </data>
   <data name="btnLicenses.Text" xml:space="preserve">
-    <value>Licence</value>
+    <value>Licence...</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - O programu</value>
+  </data>
+  <data name="lblBuild.Text" xml:space="preserve">
+    <value>Build</value>
   </data>
 </root>

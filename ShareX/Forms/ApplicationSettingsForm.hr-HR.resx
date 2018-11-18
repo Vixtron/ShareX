@@ -199,7 +199,7 @@
     <value>Integracija</value>
   </data>
   <data name="lblNotePersonalFolderPath.Text" xml:space="preserve">
-    <value>Pažnja: ShareX se treba ponovno pokrenuti kako bi se primjetile promjene osobnog foldera</value>
+    <value>Pažnja: ShareX se treba ponovno pokrenuti kako bi se primjetile promjene osobne mape</value>
   </data>
   <data name="btnOpenScreenshotsFolder.Text" xml:space="preserve">
     <value>Otvori...</value>
@@ -208,7 +208,7 @@
     <value>Traži...</value>
   </data>
   <data name="lblPersonalFolderPath.Text" xml:space="preserve">
-    <value>ShareX osobni folder</value>
+    <value>ShareX osobna mapa</value>
   </data>
   <data name="btnBrowseCustomScreenshotsPath.Text" xml:space="preserve">
     <value>Traži...</value>
@@ -217,10 +217,10 @@
     <value>Otvori...</value>
   </data>
   <data name="cbUseCustomScreenshotsPath.Text" xml:space="preserve">
-    <value>Koristi vlastiti folder za slike</value>
+    <value>Koristi vlastitu mapu za fotografije</value>
   </data>
   <data name="lblSaveImageSubFolderPattern.Text" xml:space="preserve">
-    <value>Pattern sub-foldera:</value>
+    <value>Pattern sub-mape:</value>
   </data>
   <data name="lblSaveImageSubFolderPatternPreview.Text" xml:space="preserve">
     <value>...</value>
@@ -265,22 +265,22 @@
     <value>Format</value>
   </data>
   <data name="gbClipboardFormats.Text" xml:space="preserve">
-    <value>Formati clipboarda - oni se pojavljuju ispod Kopiraj u kontekstnom meniju na glavnom prozoru</value>
+    <value>Formati međuspremnika - oni se pojavljuju ispod Kopiraj u kontekstnom meniju na glavnom prozoru</value>
   </data>
   <data name="tpUploadResults.Text" xml:space="preserve">
     <value>Rezultati</value>
   </data>
   <data name="chkUseSecondaryUploaders.Text" xml:space="preserve">
-    <value>Koristi sekundarni poredak uploadera po redu preferencije tijekom ponovnog pokušaja</value>
+    <value>Koristi sekundarni poredak prijenosnika po redu preferencije tijekom ponovnog pokušaja</value>
   </data>
   <data name="gbSecondaryImageUploaders.Text" xml:space="preserve">
-    <value>Sekundarni uploaderi za slike</value>
+    <value>Sekundarni prijenosnici za slike</value>
   </data>
   <data name="gbSecondaryFileUploaders.Text" xml:space="preserve">
-    <value>Sekundarni uploaderi za datoteke</value>
+    <value>Sekundarni prijenosnici za datoteke</value>
   </data>
   <data name="gbSecondaryTextUploaders.Text" xml:space="preserve">
-    <value>Sekundarni uploaderi za tekst</value>
+    <value>Sekundarni prijenosnici za tekst</value>
   </data>
   <data name="cbIfUploadFailRetryOnce.Text" xml:space="preserve">
     <value>Broj puta za pokušaj ponovnog prijenosa ako dođe do neuspjeha</value>
@@ -325,10 +325,10 @@
     <value>Ne prikazuj Windows print dijalog</value>
   </data>
   <data name="cbDontShowPrintSettingDialog.Text" xml:space="preserve">
-    <value>Ne prikazuj dijalog za postavke ispisivanja slika</value>
+    <value>Ne prikazuj dijalog za postavke ispisivanja fotografije</value>
   </data>
   <data name="btnShowImagePrintSettings.Text" xml:space="preserve">
-    <value>Postavke za ispis slika...</value>
+    <value>Postavke za ispis fotografije...</value>
   </data>
   <data name="tpPrint.Text" xml:space="preserve">
     <value>Ispis</value>
@@ -355,6 +355,6 @@
     <value>Napredno</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Postavke aplikacije</value>
+    <value>ShareX - Aplikacijske postavke</value>
   </data>
 </root>

@@ -130,7 +130,7 @@
     <value>Otvori datoteku...</value>
   </data>
   <data name="btnOpenFolder.Text" xml:space="preserve">
-    <value>Otvori folder...</value>
+    <value>Otvori mapu...</value>
   </data>
   <data name="btnClose.Text" xml:space="preserve">
     <value>Zatvori</value>

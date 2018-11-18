@@ -130,7 +130,7 @@
     <value>Automatski smanji u tray</value>
   </data>
   <data name="lblRegion.Text" xml:space="preserve">
-    <value>Regija</value>
+    <value>Regiju</value>
   </data>
   <data name="btnRegion.Text" xml:space="preserve">
     <value>Označi regiju</value>
@@ -151,7 +151,7 @@
     <value>Vlastita regija</value>
   </data>
   <data name="gbRegion.Text" xml:space="preserve">
-    <value>Regija</value>
+    <value>Regiju</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>ShareX - Automatsko izrezivanje</value>

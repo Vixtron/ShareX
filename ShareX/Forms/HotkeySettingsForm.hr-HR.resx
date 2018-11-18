@@ -121,7 +121,7 @@
     <value>Dupliciraj</value>
   </data>
   <data name="btnReset.Text" xml:space="preserve">
-    <value>Vrati standardne prečac tipke..</value>
+    <value>Vrati na zadane prečac tipke..</value>
   </data>
   <data name="btnEdit.Text" xml:space="preserve">
     <value>Uredi...</value>

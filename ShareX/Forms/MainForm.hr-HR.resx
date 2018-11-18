@@ -157,16 +157,16 @@
     <value>Monitor</value>
   </data>
   <data name="tsmiRectangle.Text" xml:space="preserve">
-    <value>Regija</value>
+    <value>Regiju</value>
   </data>
   <data name="tsmiRectangleLight.Text" xml:space="preserve">
-    <value>Regija (Svijetlo)</value>
+    <value>Regiju (Svijetlo)</value>
   </data>
   <data name="tsmiRectangleTransparent.Text" xml:space="preserve">
-    <value>Regija (Prozirno)</value>
+    <value>Regiju (Prozirno)</value>
   </data>
   <data name="tsmiLastRegion.Text" xml:space="preserve">
-    <value>Zadnja selekcija</value>
+    <value>Prethodnu regiju</value>
   </data>
   <data name="tsmiScreenRecordingFFmpeg.Text" xml:space="preserve">
     <value>Snimanje zaslona</value>
@@ -196,10 +196,10 @@
     <value>Prenesi datoteku</value>
   </data>
   <data name="tsmiUploadFolder.Text" xml:space="preserve">
-    <value>Prenesi folder...</value>
+    <value>Prenesi mapu...</value>
   </data>
   <data name="tsmiUploadClipboard.Text" xml:space="preserve">
-    <value>Prenesi iz clipboarda...</value>
+    <value>Prenesi iz međuspremnika...</value>
   </data>
   <data name="tsmiUploadText.Text" xml:space="preserve">
     <value>Prenesi tekst...</value>
@@ -214,7 +214,7 @@
     <value>Skrati URL...</value>
   </data>
   <data name="tsddbWorkflows.Text" xml:space="preserve">
-    <value>Radni proces</value>
+    <value>Proces radnje</value>
   </data>
   <data name="tsddbTools.Text" xml:space="preserve">
     <value>Alati</value>
@@ -226,10 +226,10 @@
     <value>Birač boja zaslona...</value>
   </data>
   <data name="tsmiImageEditor.Text" xml:space="preserve">
-    <value>Uređivač slika...</value>
+    <value>Uređivač fotografije...</value>
   </data>
   <data name="tsmiImageEffects.Text" xml:space="preserve">
-    <value>Efekti za fotografiju...</value>
+    <value>Efekti za sliku...</value>
   </data>
   <data name="tsmiHashCheck.Text" xml:space="preserve">
     <value>Provjera hasha...</value>
@@ -244,13 +244,13 @@
     <value>Ravnalo...</value>
   </data>
   <data name="tsmiIndexFolder.Text" xml:space="preserve">
-    <value>Folder indekser...</value>
+    <value>Indekser za direktorij...</value>
   </data>
   <data name="tsmiImageCombiner.Text" xml:space="preserve">
-    <value>Kombinator fotografija...</value>
+    <value>Kombinator slike...</value>
   </data>
   <data name="tsmiImageThumbnailer.Text" xml:space="preserve">
-    <value>Thumbnailer fotografija...</value>
+    <value>Thumbnailer slike...</value>
   </data>
   <data name="tsmiVideoThumbnailer.Text" xml:space="preserve">
     <value>Thumbnailer video zapisa...</value>
@@ -259,13 +259,13 @@
     <value>FTP klijent...</value>
   </data>
   <data name="tsmiTweetMessage.Text" xml:space="preserve">
-    <value>Tweetaj poruku...</value>
+    <value>Objavi putem Twittera...</value>
   </data>
   <data name="tsmiMonitorTest.Text" xml:space="preserve">
-    <value>Monitor test...</value>
+    <value>Provjeri monitor...</value>
   </data>
   <data name="tsddbAfterCaptureTasks.Text" xml:space="preserve">
-    <value>Nakon zadatka izrezivanja</value>
+    <value>Nakon zadataka izrezivanja</value>
   </data>
   <data name="tsddbAfterUploadTasks.Text" xml:space="preserve">
     <value>Nakon zadatka prijenosa</value>
@@ -274,19 +274,19 @@
     <value>Odredišta</value>
   </data>
   <data name="tsmiImageUploaders.Text" xml:space="preserve">
-    <value>Uploaderi fotografija</value>
+    <value>Prijenosnici slika</value>
   </data>
   <data name="tsmiTextUploaders.Text" xml:space="preserve">
-    <value>Tekst uploaderi</value>
+    <value>Tekst prijenosnici</value>
   </data>
   <data name="tsmiFileUploaders.Text" xml:space="preserve">
-    <value>Uploaderi datoteka</value>
+    <value>Prijenosnici datoteka</value>
   </data>
   <data name="tsmiURLShorteners.Text" xml:space="preserve">
-    <value>URL skračivaći</value>
+    <value>URL skračivanje</value>
   </data>
   <data name="tsmiURLSharingServices.Text" xml:space="preserve">
-    <value>URL dijeljenje servisa</value>
+    <value>URL servisi za dijeljenje</value>
   </data>
   <data name="tsmiDestinationSettings.Text" xml:space="preserve">
     <value>Postavke odredišta...</value>
@@ -295,31 +295,31 @@
     <value>Postavke zadataka...</value>
   </data>
   <data name="tsbApplicationSettings.Text" xml:space="preserve">
-    <value>Postavke aplikacije...</value>
+    <value>Aplikacijske postavke...</value>
   </data>
   <data name="tsbHotkeySettings.Text" xml:space="preserve">
     <value>Postavke prečac tipki...</value>
   </data>
   <data name="tsbScreenshotsFolder.Text" xml:space="preserve">
-    <value>Folder za fotografije...</value>
+    <value>Mapa s slikama...</value>
   </data>
   <data name="tsbHistory.Text" xml:space="preserve">
     <value>Povijest...</value>
   </data>
   <data name="tsbImageHistory.Text" xml:space="preserve">
-    <value>Povijest slika...</value>
+    <value>Arhiva slika...</value>
   </data>
   <data name="tsbNews.Text" xml:space="preserve">
     <value>Novosti</value>
   </data>
   <data name="tsddbDebug.Text" xml:space="preserve">
-    <value>Debugiranje</value>
+    <value>Debug</value>
   </data>
   <data name="tsmiShowDebugLog.Text" xml:space="preserve">
-    <value>Log debugiranja...</value>
+    <value>Debug log...</value>
   </data>
   <data name="tsmiTestImageUpload.Text" xml:space="preserve">
-    <value>Provjera prijenosa fotografija</value>
+    <value>Provjera prijenosa slika</value>
   </data>
   <data name="tsmiTestTextUpload.Text" xml:space="preserve">
     <value>Provjera prijenosa teksta</value>
@@ -328,7 +328,7 @@
     <value>Provjera prijenosa datoteka</value>
   </data>
   <data name="tsmiTestURLShortener.Text" xml:space="preserve">
-    <value>Provjera URL skračivaća</value>
+    <value>Provjera URL skračivanja</value>
   </data>
   <data name="tsmiTestURLSharing.Text" xml:space="preserve">
     <value>Provjera URL dijeljenja</value>
@@ -373,7 +373,7 @@
     <value>Shift+Enter</value>
   </data>
   <data name="tsmiOpenFolder.Text" xml:space="preserve">
-    <value>Folder</value>
+    <value>Mapa</value>
   </data>
   <data name="tsmiOpenThumbnailFile.Text" xml:space="preserve">
     <value>Thumbnail datoteka</value>
@@ -457,7 +457,7 @@
     <value>Ime datoteke s nastavkom</value>
   </data>
   <data name="tsmiCopyFolder.Text" xml:space="preserve">
-    <value>Folder</value>
+    <value>Mapa</value>
   </data>
   <data name="tsmiUploadSelectedFile.ShortcutKeyDisplayString" xml:space="preserve">
     <value>Ctrl+U</value>
@@ -553,13 +553,13 @@
     <value>Monitor</value>
   </data>
   <data name="tsmiTrayRectangleLight.Text" xml:space="preserve">
-    <value>Regija (Svijetlo)</value>
+    <value>Regiju (Svijetlo)</value>
   </data>
   <data name="tsmiTrayRectangleTransparent.Text" xml:space="preserve">
-    <value>Regija (Prozirno)</value>
+    <value>Regiju (Prozirno)</value>
   </data>
   <data name="tsmiTrayLastRegion.Text" xml:space="preserve">
-    <value>Prethodna regija</value>
+    <value>Prethodnu regiju</value>
   </data>
   <data name="tsmiTrayScreenRecordingFFmpeg.Text" xml:space="preserve">
     <value>Snimanje zaslona</value>
@@ -589,10 +589,10 @@
     <value>Prenesi datoteku...</value>
   </data>
   <data name="tsmiTrayUploadFolder.Text" xml:space="preserve">
-    <value>Prenesi folder...</value>
+    <value>Prenesi mapu...</value>
   </data>
   <data name="tsmiTrayUploadClipboard.Text" xml:space="preserve">
-    <value>Prenesi iz clipboarda...</value>
+    <value>Prenesi iz međuspremnika...</value>
   </data>
   <data name="tsmiTrayUploadText.Text" xml:space="preserve">
     <value>Prenesi tekst...</value>
@@ -607,7 +607,7 @@
     <value>Skrati URL...</value>
   </data>
   <data name="tsmiTrayWorkflows.Text" xml:space="preserve">
-    <value>Radni proces</value>
+    <value>Proces radnje</value>
   </data>
   <data name="tsmiTrayTools.Text" xml:space="preserve">
     <value>Alati</value>
@@ -619,10 +619,10 @@
     <value>Birač boja sa zaslona...</value>
   </data>
   <data name="tsmiTrayImageEditor.Text" xml:space="preserve">
-    <value>Uređivač fotografija...</value>
+    <value>Uređivač slika...</value>
   </data>
   <data name="tsmiTrayImageEffects.Text" xml:space="preserve">
-    <value>Efekti fotografije...</value>
+    <value>Efekti za sliku...</value>
   </data>
   <data name="tsmiTrayHashCheck.Text" xml:space="preserve">
     <value>Provjera hasha...</value>
@@ -637,13 +637,13 @@
     <value>Ravnalo...</value>
   </data>
   <data name="tsmiTrayIndexFolder.Text" xml:space="preserve">
-    <value>Folder indexer...</value>
+    <value>Indekser za direktorij...</value>
   </data>
   <data name="tsmiTrayImageCombiner.Text" xml:space="preserve">
-    <value>Kombinator fotografija...</value>
+    <value>Kombinator slika...</value>
   </data>
   <data name="tsmiTrayImageThumbnailer.Text" xml:space="preserve">
-    <value>Thumbnailer fotografija...</value>
+    <value>Thumbnailer slika...</value>
   </data>
   <data name="tsmiTrayVideoThumbnailer.Text" xml:space="preserve">
     <value>Thumbnailer video zapisa...</value>
@@ -652,7 +652,7 @@
     <value>FTP klijent...</value>
   </data>
   <data name="tsmiTrayTweetMessage.Text" xml:space="preserve">
-    <value>Tweetaj poruku...</value>
+    <value>Objavi putem Twittera...</value>
   </data>
   <data name="tsmiTrayMonitorTest.Text" xml:space="preserve">
     <value>Monitor test...</value>
@@ -664,6 +664,96 @@
     <value>Nakon zadataka prijenosa</value>
   </data>
   <data name="tsmiTrayRectangle.Text" xml:space="preserve">
-    <value>Regija</value>
+    <value>Regiju</value>
+  </data>
+  <data name="tsmiTrayDestinations.Text" xml:space="preserve">
+    <value>Odredišta</value>
+  </data>
+  <data name="tsmiTrayImageUploaders.Text" xml:space="preserve">
+    <value>Prijenosnici slika</value>
+  </data>
+  <data name="tsmiTrayTextUploaders.Text" xml:space="preserve">
+    <value>Tekst prijenosnici</value>
+  </data>
+  <data name="tsmiTrayFileUploaders.Text" xml:space="preserve">
+    <value>Prijenosnici za datoteke</value>
+  </data>
+  <data name="tsmiTrayURLShorteners.Text" xml:space="preserve">
+    <value>URL skračivanje</value>
+  </data>
+  <data name="tsmiTrayTestURLSharing.Text" xml:space="preserve">
+    <value>Provjera URL dijeljenja</value>
+  </data>
+  <data name="tsmiTrayTestURLShortener.Text" xml:space="preserve">
+    <value>Provjera URL skračivanja</value>
+  </data>
+  <data name="tsmiTrayURLSharingServices.Text" xml:space="preserve">
+    <value>URL servisi za dijeljenje</value>
+  </data>
+  <data name="tsmiTrayDestinationSettings.Text" xml:space="preserve">
+    <value>Postavke odredišta...</value>
+  </data>
+  <data name="tsmiTrayTaskSettings.Text" xml:space="preserve">
+    <value>Postavke zadataka...</value>
+  </data>
+  <data name="tsmiTrayApplicationSettings.Text" xml:space="preserve">
+    <value>Aplikacijske postavke...</value>
+  </data>
+  <data name="tsmiTrayHotkeySettings.Text" xml:space="preserve">
+    <value>Postavke prečac tipki...</value>
+  </data>
+  <data name="tsmiTrayToggleHotkeys.Text" xml:space="preserve">
+    <value>Isključi prečac tipke</value>
+  </data>
+  <data name="tsmiScreenshotsFolder.Text" xml:space="preserve">
+    <value>Mapa s slikama...</value>
+  </data>
+  <data name="tsmiTrayHistory.Text" xml:space="preserve">
+    <value>Povijest...</value>
+  </data>
+  <data name="tsmiTrayDebug.Text" xml:space="preserve">
+    <value>Debug</value>
+  </data>
+  <data name="tsmiTrayShowDebugLog.Text" xml:space="preserve">
+    <value>Debug log...</value>
+  </data>
+  <data name="tsmiTrayImageHistory.Text" xml:space="preserve">
+    <value>Arhiva slika...</value>
+  </data>
+  <data name="tsmiTrayTestImageUpload.Text" xml:space="preserve">
+    <value>Provjera prijenosa slika</value>
+  </data>
+  <data name="tsmiTrayTestTextUpload.Text" xml:space="preserve">
+    <value>Provjera prijenosa teksta</value>
+  </data>
+  <data name="tsmiTrayTestFileUpload.Text" xml:space="preserve">
+    <value>Provjera prijenosa datoteka</value>
+  </data>
+  <data name="tsmiTrayDonate.Text" xml:space="preserve">
+    <value>Donacije...</value>
+  </data>
+  <data name="tsmiTrayAbout.Text" xml:space="preserve">
+    <value>O programu...</value>
+  </data>
+  <data name="tsmiTrayRecentItems.Text" xml:space="preserve">
+    <value>Prethodni linkovi</value>
+  </data>
+  <data name="tsmiOpenActionsToolbar.Text" xml:space="preserve">
+    <value>Prikaži ili isljuči aktivnosnu alatnu traku</value>
+  </data>
+  <data name="tsmiTrayShow.Text" xml:space="preserve">
+    <value>Otvori glavni prozor</value>
+  </data>
+  <data name="tsmiTrayExit.Text" xml:space="preserve">
+    <value>Izađi</value>
+  </data>
+  <data name="pbDiscordOpen.ToolTip" xml:space="preserve">
+    <value>Otvori ShareX Discord server invitacijski link</value>
+  </data>
+  <data name="pbDiscordHide.ToolTip" xml:space="preserve">
+    <value>Sakrij Discord gumb trajno</value>
+  </data>
+  <data name="btnCloseNews.Text" xml:space="preserve">
+    <value>Zatvori</value>
   </data>
 </root>
