@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btnDestinations.Text" xml:space="preserve">
+    <value>Odredišta</value>
+  </data>
+  <data name="btnAfterCapture.Text" xml:space="preserve">
+    <value>Nakon izrezivanja...</value>
+  </data>
+  <data name="btnActionsEdit.Text" xml:space="preserve">
+    <value>Uredi</value>
+  </data>
+  <data name="btnWatchFolderEdit.Text" xml:space="preserve">
+    <value>Uredi...</value>
+  </data>
+  <data name="cbOverrideAfterCaptureSettings.Text" xml:space="preserve">
+    <value>Prekorači postavke za nakon izrezivanja</value>
+  </data>
+  <data name="cbOverrideAfterUploadSettings.Text" xml:space="preserve">
+    <value>Prekorači postavke za nakon prijenosa</value>
+  </data>
+  <data name="cbOverrideDestinationSettings.Text" xml:space="preserve">
+    <value>Prekorači postavke za odredišta</value>
+  </data>
+  <data name="chkOverrideCustomUploader.Text" xml:space="preserve">
+    <value>Prekorači zadane postavke vlastitog prijenosnika</value>
+  </data>
+  <data name="chkOverrideFTP.Text" xml:space="preserve">
+    <value>Prekorači postavke zadanog FTP računa</value>
+  </data>
+  <data name="chkOverrideGeneralSettings.Text" xml:space="preserve">
+    <value>Prekorači opće postavke</value>
+  </data>
+  <data name="chkOverrideImageSettings.Text" xml:space="preserve">
+    <value>Prekorači postavke za postavke slike</value>
+  </data>
+  <data name="chkOverrideCaptureSettings.Text" xml:space="preserve">
+    <value>Prekorači postavke za izrezivanje</value>
+  </data>
+  <data name="chkOverrideUploadSettings.Text" xml:space="preserve">
+    <value>Prekorači postavke za prijenos</value>
+  </data>
+  <data name="chkOverrideActions.Text" xml:space="preserve">
+    <value>Prekorači aktivnosti</value>
+  </data>
+  <data name="chkOverrideToolsSettings.Text" xml:space="preserve">
+    <value>Prekorači postavke alata</value>
+  </data>
+  <data name="chkOverrideAdvancedSettings.Text" xml:space="preserve">
+    <value>Prekorači napredne postavke</value>
+  </data>
+  <data name="lblDescription.Text" xml:space="preserve">
+    <value>Opis:</value>
+  </data>
+  <data name="btnAfterUpload.Text" xml:space="preserve">
+    <value>Nakon prijenosa...</value>
+  </data>
+  <data name="tsmiImageUploaders.Text" xml:space="preserve">
+    <value>Prijenosnici slika</value>
+  </data>
+  <data name="tsmiTextUploaders.Text" xml:space="preserve">
+    <value>Tekst prijenosnici</value>
+  </data>
+  <data name="tsmiFileUploaders.Text" xml:space="preserve">
+    <value>Prijenosnici za datoteke</value>
+  </data>
+  <data name="tsmiURLShorteners.Text" xml:space="preserve">
+    <value>URL skračivanje</value>
+  </data>
+  <data name="cbClipboardUploadShortenURL.Text" xml:space="preserve">
+    <value>Ako međuspremnik sadrži URL tada se koristi URL skračivanje</value>
+  </data>
+  <data name="tsmiURLSharingServices.Text" xml:space="preserve">
+    <value>URL servisi za dijeljenje</value>
+  </data>
+  <data name="cbClipboardUploadShareURL.Text" xml:space="preserve">
+    <value>Ako međuspremnik sadrži URL tada se dijeli koristeći servis za dijeljenje URLa</value>
+  </data>
+  <data name="btnTask.Text" xml:space="preserve">
+    <value>Zadatak...</value>
+  </data>
+  <data name="tpTask.Text" xml:space="preserve">
+    <value>Zadatak</value>
+  </data>
+  <data name="lblAfterTaskNotification.Text" xml:space="preserve">
+    <value>Kada se izvrši zadatak:</value>
+  </data>
+  <data name="cbPlaySoundAfterUpload.Text" xml:space="preserve">
+    <value>Pusti zvuk kada je zadatak završen</value>
+  </data>
+  <data name="cbPlaySoundAfterCapture.Text" xml:space="preserve">
+    <value>Pusti zvuk nakon izrezivanja</value>
+  </data>
+  <data name="tpGeneral.Text" xml:space="preserve">
+    <value>Opće</value>
+  </data>
+  <data name="lblImagePNGBitDepth.Text" xml:space="preserve">
+    <value>PNG dubina bitova:</value>
+  </data>
+  <data name="cbImageAutoUseJPEG.Text" xml:space="preserve">
+    <value>Ako je veličina slike veća od specifične veličine onda koristi JPEG kao format slike:</value>
+  </data>
+  <data name="lblImageFormat.Text" xml:space="preserve">
+    <value>Format slike:</value>
+  </data>
+  <data name="lblToolsScreenColorPickerFormat.Text" xml:space="preserve">
+    <value>Format birača boje zaslona:</value>
+  </data>
+  <data name="lblImageFileExist.Text" xml:space="preserve">
+    <value>Ako datoteka postoji:</value>
+  </data>
+  <data name="lblImageSizeLimitHint.Text" xml:space="preserve">
+    <value>kB</value>
+  </data>
+  <data name="lblImageJPEGQualityHint.Text" xml:space="preserve">
+    <value>0 - 100</value>
+  </data>
+  <data name="lblImageGIFQuality.Text" xml:space="preserve">
+    <value>GIF kvaliteta:</value>
+  </data>
+  <data name="lblImageJPEGQuality.Text" xml:space="preserve">
+    <value>JPEG kvaliteta:</value>
+  </data>
+  <data name="lblImageEffectsNote.Text" xml:space="preserve">
+    <value>Efekti za slike se mogu isključivati i uključivati u "Nakon zadataka izrezivanja -&gt; Dodaj efekte za sliku".</value>
+  </data>
+  <data name="chkShowImageEffectsWindowAfterCapture.Text" xml:space="preserve">
+    <value>Prikazuj efekte za slike prozor nakon izrezivanja</value>
+  </data>
+  <data name="cbImageEffectOnlyRegionCapture.Text" xml:space="preserve">
+    <value>Primjeni efekte samo na regijsko izrezivanje</value>
+  </data>
+  <data name="btnImageEffects.Text" xml:space="preserve">
+    <value>Postavke efekata za slike...</value>
+  </data>
+  <data name="tpEffects.Text" xml:space="preserve">
+    <value>Efekti</value>
+  </data>
+  <data name="cbThumbnailIfSmaller.Text" xml:space="preserve">
+    <value>Stvori thumbnail samo ako je veličina slike veća od veličine thumnaila</value>
+  </data>
+  <data name="lblThumbnailNamePreview.Text" xml:space="preserve">
+    <value>Primjer</value>
+  </data>
+  <data name="lblNameFormatPatternPreview.Text" xml:space="preserve">
+    <value>Primjer:</value>
+  </data>
+  <data name="lblNameFormatPatternPreviewActiveWindow.Text" xml:space="preserve">
+    <value>Primjer:</value>
+  </data>
+  <data name="lblThumbnailName.Text" xml:space="preserve">
+    <value>Ime thumbnaila:</value>
+  </data>
+  <data name="lblThumbnailHeight.Text" xml:space="preserve">
+    <value>Visina:</value>
+  </data>
+  <data name="lblThumbnailWidth.Text" xml:space="preserve">
+    <value>Širina:</value>
+  </data>
+  <data name="tpThumbnail.Text" xml:space="preserve">
+    <value>Thumbnail</value>
+  </data>
+  <data name="tpImage.Text" xml:space="preserve">
+    <value>Slika</value>
+  </data>
+  <data name="btnCaptureCustomRegionSelectRectangle.Text" xml:space="preserve">
+    <value>Označi regiju...</value>
+  </data>
+  <data name="lblCaptureCustomRegion.Text" xml:space="preserve">
+    <value>Prekonfigurirana regija</value>
+  </data>
+  <data name="lblCaptureCustomRegionWidth.Text" xml:space="preserve">
+    <value>Širina</value>
+  </data>
+  <data name="lblCaptureCustomRegionHeight.Text" xml:space="preserve">
+    <value>Visina</value>
+  </data>
+  <data name="lblCaptureCustomRegionY.Text" xml:space="preserve">
+    <value>Y</value>
+  </data>
+  <data name="lblCaptureCustomRegionX.Text" xml:space="preserve">
+    <value>X</value>
+  </data>
+  <data name="cbShowCursor.Text" xml:space="preserve">
+    <value>Prikazuj kursor u slikama</value>
+  </data>
+  <data name="lblCaptureShadowOffset.Text" xml:space="preserve">
+    <value>Pomak sjene:</value>
+  </data>
+  <data name="cbCaptureTransparent.Text" xml:space="preserve">
+    <value>Izreži prozor s prozirnošću</value>
+  </data>
+  <data name="cbCaptureAutoHideTaskbar.Text" xml:space="preserve">
+    <value>Tijekom izrezivanja prozora ako dođe do intersekcije s radnom trakom, sakrij radnu traku</value>
+  </data>
+  <data name="cbCaptureShadow.Text" xml:space="preserve">
+    <value>Izreži prozor s sjenom (zahtjeva prozirnost)</value>
+  </data>
+  <data name="lblScreenshotDelayInfo.Text" xml:space="preserve">
+    <value>sekunde</value>
+  </data>
+  <data name="cbCaptureClientArea.Text" xml:space="preserve">
+    <value>Izreži regiju programa kada se izrezuje prozor ili aktivni prozor</value>
+  </data>
+  <data name="cbScreenshotDelay.Text" xml:space="preserve">
+    <value>Vremenski razmak između izrezivanja:</value>
+  </data>
+  <data name="cbRegionCaptureShowFPS.Text" xml:space="preserve">
+    <value>Prikaži FPS u gornjem lijevom kutu</value>
+  </data>
+  <data name="lblRegionCaptureFixedSizeWidth.Text" xml:space="preserve">
+    <value>Širina:</value>
+  </data>
+  <data name="lblRegionCaptureFixedSizeHeight.Text" xml:space="preserve">
+    <value>Visina:</value>
+  </data>
+  <data name="cbRegionCaptureIsFixedSize.Text" xml:space="preserve">
+    <value>Prilagođena veličina regijskog moda:</value>
+  </data>
+  <data name="cbRegionCaptureShowCrosshair.Text" xml:space="preserve">
+    <value>Prikaži nišan širine cijelog zaslona</value>
+  </data>
+  <data name="lblRegionCaptureMagnifierPixelSize.Text" xml:space="preserve">
+    <value>Veličina povećala u pikselima:</value>
+  </data>
+  <data name="lblRegionCaptureMagnifierPixelCount.Text" xml:space="preserve">
+    <value>Količina piksela na povećalu:</value>
+  </data>
+  <data name="cbRegionCaptureUseSquareMagnifier.Text" xml:space="preserve">
+    <value>Koristi kvadratno povećalo umjesto kružnog</value>
+  </data>
+  <data name="cbRegionCaptureShowMagnifier.Text" xml:space="preserve">
+    <value>Prikaži povećalo pored kursora</value>
+  </data>
+  <data name="cbRegionCaptureShowInfo.Text" xml:space="preserve">
+    <value>Prikaži poziciju i informacije o veličini</value>
+  </data>
+  <data name="btnRegionCaptureSnapSizesRemove.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="btnRegionCaptureSnapSizesAdd.Text" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="lblRegionCaptureSnapSizes.Text" xml:space="preserve">
+    <value>Veličina regije će se prihvatiti držanjem "Alt" tipke:</value>
+  </data>
+  <data name="cbRegionCaptureUseCustomInfoText.Text" xml:space="preserve">
+    <value>Koristi vlastiti info tekst pored kursora:</value>
+  </data>
+  <data name="cbRegionCaptureDetectControls.Text" xml:space="preserve">
+    <value>Isto pronađi kontrolne regije unutar prozora</value>
+  </data>
+  <data name="cbRegionCaptureDetectWindows.Text" xml:space="preserve">
+    <value>Pronađi regije prozora i dozvoli izrezivanje držeći kursor iznad prozora</value>
+  </data>
+  <data name="lblRegionCaptureMouse5ClickAction.Text" xml:space="preserve">
+    <value>Mouse 5 klik aktivnost:</value>
+  </data>
+  <data name="lblRegionCaptureMouse4ClickAction.Text" xml:space="preserve">
+    <value>Mouse 4 klik aktivnost:</value>
+  </data>
+  <data name="lblRegionCaptureMouseMiddleClickAction.Text" xml:space="preserve">
+    <value>Aktivnost srednjeg gumba miša:</value>
+  </data>
+  <data name="lblRegionCaptureMouseRightClickAction.Text" xml:space="preserve">
+    <value>Aktivnost desnog klika miša:</value>
+  </data>
+  <data name="cbRegionCaptureMultiRegionMode.Text" xml:space="preserve">
+    <value>Koristi multi regijski mode koji će isto dozvoliti promjenu širine/visine i pomicanje regije</value>
+  </data>
+  <data name="btnRegionCaptureSnapSizesDialogCancel.Text" xml:space="preserve">
+    <value>Odustani</value>
+  </data>
+  <data name="btnRegionCaptureSnapSizesDialogAdd.Text" xml:space="preserve">
+    <value>Dodaj</value>
+  </data>
+  <data name="RegionCaptureSnapSizesHeight.Text" xml:space="preserve">
+    <value>Visina:</value>
+  </data>
+  <data name="lblRegionCaptureSnapSizesWidth.Text" xml:space="preserve">
+    <value>Širina:</value>
+  </data>
+  <data name="cbRegionCaptureUseDimming.Text" xml:space="preserve">
+    <value>Zamrači pozadinu kako bi se selekcija mogla lakše prepoznati (utječe na brzinu paljenja)</value>
+  </data>
+  <data name="tpRegionCapture.Text" xml:space="preserve">
+    <value>Regijsko izrezivanje</value>
+  </data>
+  <data name="cbScreenRecordTwoPassEncoding.Text" xml:space="preserve">
+    <value>Snimaj koristeći lossless encoding i onda primjeni korisničku encoding opciju</value>
+  </data>
+  <data name="cbScreenRecordConfirmAbort.Text" xml:space="preserve">
+    <value>Zatraži potvrdu za odustajanje</value>
+  </data>
+  <data name="_Empty[1]" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="_Empty[2]" xml:space="preserve">
+    <value></value>
+  </data>
+  <data name="cbScreenRecorderShowCursor.Text" xml:space="preserve">
+    <value>Prikaži kursor tijekom snimanja</value>
+  </data>
+  <data name="btnScreenRecorderFFmpegOptions.Text" xml:space="preserve">
+    <value>Opcije za snimanje zaslona...</value>
+  </data>
+  <data name="lblScreenRecorderStartDelay.Text" xml:space="preserve">
+    <value>sekunde</value>
+  </data>
+  <data name="chkScreenRecordAutoStart.Text" xml:space="preserve">
+    <value>Započni snimati nakon:</value>
+  </data>
+  <data name="lblScreenRecorderFixedDuration.Text" xml:space="preserve">
+    <value>sekunde</value>
+  </data>
+  <data name="lblScreenRecordFPS.Text" xml:space="preserve">
+    <value>FPS snimanja zaslona:</value>
+  </data>
+  <data name="cbScreenRecorderFixedDuration.Text" xml:space="preserve">
+    <value>Prilagođeno trajanje:</value>
+  </data>
+  <data name="lblGIFFPS.Text" xml:space="preserve">
+    <value>GIF FPS:</value>
+  </data>
+  <data name="tpScreenRecorder.Text" xml:space="preserve">
+    <value>Snimač zaslona</value>
+  </data>
+  <data name="tpCapture.Text" xml:space="preserve">
+    <value>Snimaj</value>
+  </data>
+  <data name="cbFileUploadReplaceProblematicCharacters.Text" xml:space="preserve">
+    <value>Zamjeni problematične znamenke u URL-ima s podvlakom tijekom prijenosa</value>
+  </data>
+  <data name="lblAutoIncrementNumber.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="cbRegionCaptureUseWindowPattern.Text" xml:space="preserve">
+    <value>Koristi uzorak imena prozora za regijsko izrezivanje (ShareX će pokušati pronaći prozor iza selekcije)</value>
+  </data>
+  <data name="cbNameFormatCustomTimeZone.Text" xml:space="preserve">
+    <value>Koristi vlastitu vremensku zonu:</value>
+  </data>
+  <data name="lblNameFormatPatternActiveWindow.Text" xml:space="preserve">
+    <value>Ime uzorka za izrezivanje prozora:</value>
+  </data>
+  <data name="btnResetAutoIncrementNumber.Text" xml:space="preserve">
+    <value>Resetiraj auto inkrement broj</value>
+  </data>
+  <data name="cbFileUploadUseNamePattern.Text" xml:space="preserve">
+    <value>Koristi ime uzorka za prijenos datoteka umjesto pravog imena datoteke</value>
+  </data>
+  <data name="lblNameFormatPattern.Text" xml:space="preserve">
+    <value>Ime uzorka za izrezivanje ili prijenos s međuspremnika</value>
+  </data>
+  <data name="tpFileNaming.Text" xml:space="preserve">
+    <value>Imenovanje datoteke</value>
+  </data>
+  <data name="chkClipboardUploadURLContents.Text" xml:space="preserve">
+    <value>Ako međuspremnik sadrži URL datoteku tada se preuzme i prenese</value>
+  </data>
+  <data name="cbClipboardUploadAutoIndexFolder.Text" xml:space="preserve">
+    <value>Ako međuspremnik sadrži put mape onda se indeksira ta mapa i prenese index</value>
+  </data>
+  <data name="tpUploadClipboard.Text" xml:space="preserve">
+    <value>Prijenos iz međuspremnika</value>
+  </data>
+  <data name="chUploaderFiltersName.Text" xml:space="preserve">
+    <value>Prijenosnik</value>
+  </data>
+  <data name="chUploaderFiltersExtension.Text" xml:space="preserve">
+    <value>Dodatak</value>
+  </data>
+  <data name="btnUploaderFiltersRemove.Text" xml:space="preserve">
+    <value>Ukloni</value>
+  </data>
+  <data name="btnUploaderFiltersUpdate.Text" xml:space="preserve">
+    <value>Ažuriraj</value>
+  </data>
+  <data name="btnUploaderFiltersAdd.Text" xml:space="preserve">
+    <value>Dodaj</value>
+  </data>
+  <data name="lblUploaderFiltersDestination.Text" xml:space="preserve">
+    <value>Prijenosnik:</value>
+  </data>
+  <data name="lblUploaderFiltersExtensionsExample.Text" xml:space="preserve">
+    <value>Primjer: png, jpg, jpeg</value>
+  </data>
+  <data name="lblUploaderFiltersExtensions.Text" xml:space="preserve">
+    <value>Ekstenzijski filter:</value>
+  </data>
+  <data name="tpUploaderFilters.Text" xml:space="preserve">
+    <value>Prijenosnikov filter:</value>
+  </data>
+  <data name="tpUpload.Text" xml:space="preserve">
+    <value>Prijenos</value>
+  </data>
+  <data name="btnActionsDuplicate.Text" xml:space="preserve">
+    <value>Dupliciraj</value>
+  </data>
+  <data name="btnActionsAdd.Text" xml:space="preserve">
+    <value>Dodaj</value>
+  </data>
+  <data name="chActionsName.Text" xml:space="preserve">
+    <value>Ime</value>
+  </data>
+  <data name="chActionsPath.Text" xml:space="preserve">
+    <value>Put</value>
+  </data>
+  <data name="chActionsArgs.Text" xml:space="preserve">
+    <value>Argumenti</value>
+  </data>
+  <data name="chActionsExtensions.Text" xml:space="preserve">
+    <value>Dodatak</value>
+  </data>
+  <data name="btnActionsRemove.Text" xml:space="preserve">
+    <value>Ukloni</value>
+  </data>
+  <data name="tpActions.Text" xml:space="preserve">
+    <value>Aktivnosti</value>
+  </data>
+  <data name="cbWatchFolderEnabled.Text" xml:space="preserve">
+    <value>Prati mape i ako se stvori nova datoteka prenesi ju</value>
+  </data>
+  <data name="chWatchFolderFolderPath.Text" xml:space="preserve">
+    <value>Put datoteke</value>
+  </data>
+  <data name="chWatchFolderFilter.Text" xml:space="preserve">
+    <value>Filter</value>
+  </data>
+  <data name="chWatchFolderIncludeSubdirectories.Text" xml:space="preserve">
+    <value>Sačuvaj subdirektorije</value>
+  </data>
+  <data name="btnWatchFolderRemove.Text" xml:space="preserve">
+    <value>Ukloni</value>
+  </data>
+  <data name="btnWatchFolderAdd.Text" xml:space="preserve">
+    <value>Dodaj...</value>
+  </data>
+  <data name="tpWatchFolders.Text" xml:space="preserve">
+    <value>Prati mape</value>
+  </data>
+  <data name="tpTools.Text" xml:space="preserve">
+    <value>Alati</value>
+  </data>
+  <data name="tpAdvanced.Text" xml:space="preserve">
+    <value>Naprijedno</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ShareX - Postavke zadataka</value>
+  </data>
+</root>
